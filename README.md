@@ -2,7 +2,7 @@
 
 I enjoyed watching movies on my mac. But I sit too far away from it and I don't want to bring keyboard to me. It's tiring to stand up, walk, and press spacebar to pause.
 
-A motto of being a developer is working an hour to solve 2s of my everyday problem. This project is one of them.
+A motto of being a developer is working an hour to solve 2s of my everyday problem. This project is one of them. I made a mini ios remote so I can pause or forward without moving from my couch. Saved 2s of my everyday, maybe 1 min every week.
 
 A simple iOS app that works as pause, forward, backward, volume down, and volume up just like a TV remote.
 
